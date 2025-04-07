@@ -1,5 +1,9 @@
 body {
   background-color: #f8f9fa;
+  background-image: url('https://drive.google.com/file/d/1hl82mCg75cz6cFQbOX6fNY5HrbQQ0pzZ/view?usp=drive_link'); 
+  background-size: cover; 
+  background-repeat: no-repeat; 
+  background-attachment: fixed;
   font-family: Arial, sans-serif;
   text-align: center;
   margin-top: 50px;
